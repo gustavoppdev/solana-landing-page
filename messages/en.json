@@ -1,0 +1,112 @@
+{
+  "Layout": {
+    "Navbar": ["Learn", "Build", "Solutions", "Network", "Community"],
+    "Footer": {
+      "managedBy": "Managed by",
+      "rights": "© 2025 Solana Foundation. All rights reserved.",
+      "links": [
+        {
+          "title": "Solana",
+          "items": [
+            "Grants",
+            "Break Solana",
+            "Media Kit",
+            "Careers",
+            "Disclaimer",
+            "Privacy Policy"
+          ]
+        },
+        {
+          "title": "Get Connected",
+          "items": ["Ecosystem", "Blog", "Newsletter"]
+        }
+      ]
+    }
+  },
+  "Pages": {
+    "Home": {
+      "Hero": {
+        "headline": "Powerful for developers. <breakline>Fast for everyone.</breakline>",
+        "description": "Bring blockchain to the people. Solana supports experiences for power users, new consumers, and everyone in between.",
+        "startBuildingBtn": "Start Building",
+        "readDocsBtn": "Read Docs",
+        "logosIntroduction": "Powering tools and integrations from companies all around the world"
+      },
+      "TokenExtensions": {
+        "introductionBtn": "Token Extensions",
+        "headline": "Coindesk: Token Extensions Update to SPL Token Program Live After Year in Development",
+        "description": "Token extensions let developers hard code restrictions in their digital assets, enhancing compliance controls for businesses building on Solana.",
+        "readMoreBtn": "Read More"
+      },
+      "JoinACommunity": {
+        "headline": "Join a community of millions",
+        "activeAccounts": "Active Accounts",
+        "nftsMinted": "NFTS Minted",
+        "averageCost": "Average Cost Per Transaction"
+      },
+      "MassAdoption": {
+        "headline": "Made for <breakline>mass adoption</breakline>",
+        "liveData": "Live data",
+        "benefits": {
+          "fast": {
+            "title": "Fast",
+            "description": "Don’t keep your users waiting.Solana has block times of 400 milliseconds — and as hardware gets faster, so will the network.",
+            "stat": "Transactions Per Second"
+          },
+          "scalable": {
+            "title": "Scalable",
+            "description": "Get big, quick. Solana is made to handle thousands of transactions per second, and fees for both developers and users remain less than $0.0025.",
+            "stat": "Total Transactions"
+          },
+          "decentralized": {
+            "title": "Decentralized",
+            "description": "The Solana network is validated by thousands of nodes that operate independently of each other, ensuring your data remains secure and censorship resistant.",
+            "stat": "Validator Nodes"
+          },
+          "energyEfficient": {
+            "title": "Energy Efficient",
+            "description": "Solana’s proof of stake network and other innovations minimize its impact on the environment. Each Solana transaction uses about the same energy as a few Google searches.",
+            "stat": "Net Carbon Impact"
+          }
+        }
+      },
+      "CaseStudies": {
+        "headline": "Case Studies",
+        "goToCasesBtn": "Go to Case Studies",
+        "cases": {
+          "helium": "Helium brings real-world 5G networks on Solana",
+          "gainForest": "GainForest brings transparency to climate preservation efforts",
+          "hivemapper": "Hivemapper decentralizes mapping with better real-time data and community incentives",
+          "asics": "ASICS builds loyalty program with Solana Pay"
+        }
+      },
+      "BuildForGrowth": {
+        "headline": "Build for growth.",
+        "description": "Solana Pay is now available to millions of businesses as an approved app integration on Shopify. Solana Pay is built for immediate USDC transactions, fees that are fractions of a penny, and a net-zero environmental impact.",
+        "learnMoreBtn": "Learn more about Payments on Solana",
+        "navigation": {
+          "payments": "Payments",
+          "gaming": "Gaming",
+          "nfts": "NFTs",
+          "defi": "DeFi",
+          "daos": "DAOs"
+        }
+      },
+      "JoinAThrivingCommunity": {
+        "headline": "Join a thriving community",
+        "callToActDescription": "It's time to join the thousands of creators, artists, and developers using Solana.",
+        "callToActBtn": "Start Building"
+      }
+    }
+  },
+  "AriaLabel": {
+    "languageSwitcher": "Change language",
+    "menuNavigation": "Open navigation menu"
+  },
+  "Metadata": {
+    "title": "Solana | Powerful for Developers. Fast for Everyone.",
+    "description": "Build on the world's fastest blockchain. Solana delivers the speed and scalability needed for mass adoption, with fees below $0.0025.",
+    "keywords": "Solana, blockchain, crypto, web3, developers, scalability, speed, solana pay, DeFi, NFTs",
+    "openGraphImageAlt": "Solana logo with the tagline 'Powerful for developers. Fast for everyone.' and network performance data."
+  }
+}
