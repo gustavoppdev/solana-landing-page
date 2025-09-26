@@ -45,7 +45,7 @@ export default function LanguageSwitcher({
         <Button
           variant="ghost"
           size="sm"
-          aria-label={"languageSwithcer"}
+          aria-label={t("languageSwithcer")}
           className={`cursor-pointer w-fit ${styles}`}
         >
           <Languages className="size-5" strokeWidth={"1.5"} />
