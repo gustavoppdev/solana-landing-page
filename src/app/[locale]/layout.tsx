@@ -30,16 +30,16 @@ export async function generateMetadata({
     description: t("description"),
     keywords: t("keywords").split(","),
     alternates: {
-      canonical: "",
+      canonical: "https://solana-landing-page.vercel.app",
       languages: {
-        en: "/en",
-        pt: "/pt",
+        en: "https://solana-landing-page.vercel.app/en",
+        pt: "https://solana-landing-page.vercel.app/pt",
       },
     },
     openGraph: {
       title: t("title"),
       description: t("description"),
-      url: "",
+      url: "https://solana-landing-page.vercel.app",
       siteName: "Solana",
       locale,
       type: "website",
@@ -64,7 +64,7 @@ export async function generateMetadata({
         "max-snippet": -1,
       },
     },
-    metadataBase: new URL(""),
+    metadataBase: new URL("https://solana-landing-page.vercel.app/pt"),
   };
 }
 
