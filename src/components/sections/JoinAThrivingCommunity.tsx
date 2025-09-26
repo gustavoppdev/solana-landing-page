@@ -15,7 +15,7 @@ const JoinAThrivingCommunity = () => {
   const t = useTranslations("Pages.Home.JoinAThrivingCommunity");
   return (
     <section
-      className="my-35 space-y-8 relative py-40 bg-cover bg-center"
+      className="my-15 space-y-8 relative pt-15 pb-30 bg-cover bg-center"
       style={{
         backgroundImage: `url(${background2.src})`,
       }}

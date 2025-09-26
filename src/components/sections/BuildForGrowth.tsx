@@ -12,7 +12,7 @@ import { buttonsBuildForGrowth, logosBuildForGrowth } from "@/data/constants";
 const BuildForGrowth = () => {
   const t = useTranslations("Pages.Home.BuildForGrowth");
   return (
-    <section className="container-section my-35 space-y-8">
+    <section className="container-section my-35 space-y-8 ">
       <div className="text-white flex flex-col lg:flex-row gap-8 lg:gap-0 justify-between items-center">
         <h2 className="text-3xl lg:text-4xl font-bold">{t("headline")}</h2>
         <div className="flex flex-wrap justify-center gap-4">

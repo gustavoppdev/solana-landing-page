@@ -24,7 +24,7 @@ const StatCard = ({ benefit }: Props) => {
       </h3>
       <p className="text-[#C4C4C4] text-lg">{t(benefit.descriptionKey)}</p>
 
-      <div className="relative mt-8 pl-2 text-3xl">
+      <div className="relative mt-8 pl-4 text-2xl">
         <span className="absolute top-0 left-0 h-[6px] w-[6px] rounded-full bg-[#1FCFF1]"></span>
         {benefit.number}
       </div>
