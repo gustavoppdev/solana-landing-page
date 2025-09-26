@@ -40,7 +40,7 @@ const Hero = () => {
           />
         </div>
       </div>
-      <div className="container-section min-h-[calc(100vh-68px)] text-center flex flex-col justify-between items-center">
+      <div className="container-section min-h-[calc(100dvh-68px)] text-center flex flex-col justify-between items-center">
         <div className="flex flex-col gap-8 lg:gap-12 justify-center items-center mt-30 sm:mt-40 2xl:mt-60">
           <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight">
             {t.rich("headline", {
